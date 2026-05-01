@@ -1,7 +1,5 @@
 # customer_shopping_behavior_analysis
 
-# customer_shopping_behavior_analysis
-
 🔍 Overview
 
 This project focuses on analyzing customer shopping behavior using transactional data. The goal is to uncover insights into customer spending patterns, product preferences, and business performance to support data-driven decision-making.
